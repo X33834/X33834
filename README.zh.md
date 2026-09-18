@@ -29,7 +29,7 @@
 ## 统计
 
 <!-- STATS:START -->
-- ⭐ **8** stars（GitHub 较大值）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **14+ 项目**（以 GitCode 为准）
+- ⭐ **12** stars（四平台取最大）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ 项目**（以 GitCode 为准）
 <!-- STATS:END -->
 
 <p align="center">
@@ -67,9 +67,10 @@
 ## 项目
 
 <!-- PROJECTS:START -->
-- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 0★ · Android 端 AI 编程助手（BYOK 离线运行） · `移动端 · Kotlin`
+- **[bot4cj](https://gitcode.com/badhope/bot4cj)** · 6★ · 基于仓颉语言的硬件机器人控制框架 · `硬件 · 机器人`
+- **[mobilecode](https://gitcode.com/badhope/mobilecode)** · 1★ · Android 端 AI 编程助手（BYOK 离线运行） · `移动端 · Kotlin`
 - **[dev-terminal](https://gitcode.com/badhope/dev-terminal)** · 0★ · 完全离线的安卓编程终端 — 手机上的现代 IDE · `移动端 · 离线`
-- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 0★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI 工具链`
+- **[awesome-skillkit](https://gitcode.com/badhope/awesome-skillkit)** · 3★ · Agent Skills 场景包 · 27 packs / 11 分类 · `AI 工具链`
 - **[scholarhub](https://gitcode.com/badhope/scholarhub)** · 1★ · 学术期刊与预印本多租户平台 · `SaaS`
 - **[FinHub](https://gitcode.com/badhope/FinHub)** · 0★ · AI 投资研究 Agent 平台 · `量化 · 金融`
 - **[VerdictAI](https://gitcode.com/badhope/VerdictAI)** · 0★ · 多智能体法庭辩论系统 · `多智能体`
@@ -98,18 +99,18 @@
 
 - **GitHub · Morningstar202604** — [链接](https://github.com/Morningstar202604) · **12 PRs merged**
 - **GitHub · X33834** — [链接](https://github.com/X33834) · **4 PRs merged**（Nailong-Studio/website ×4）+ 评审中：airflow #73099 · MonkeyCode #1298 · simona #1–6
-- **GitCode · badhope** — [链接](https://gitcode.com/badhope) · 14 个开源项目镜像（移动端 IDE / AI 助手 / 学习终端）
+- **GitCode · badhope** — [链接](https://gitcode.com/badhope) · 16 个开源项目镜像（移动端 IDE / AI 助手 / 学习终端）
 - **Gitee · badhope** — [链接](https://gitee.com/badhope) · 项目镜像 + 小程序作品集
 
 ## 博客
 
 <!-- BLOG:START -->
-- [C++、Node.js、Python 写最小 HTTP 服务谁快？我实测了 6 万次请求](https://juejin.cn/post/7686040694947233801) · `2026-09-16` · 掘金
-- [Token 变成 KPI：大厂发 22 万「Token 套餐」，程序员开始自费上班](https://juejin.cn/post/7686025279651299374) · `2026-09-16` · 掘金
-- [【分布式第一课】从单机到百万级并发：一小时带你看懂分布式系统的前世今生](https://blog.csdn.net/weixin_56622231/article/details/165435117) · `2026-09-15` · CSDN
-- [2026分布式系统新范式：从CAP到AI驱动的动态一致性](https://blog.csdn.net/weixin_56622231/article/details/165426714) · `2026-09-15` · CSDN
-- [阿里面试全流程及备战攻略](https://blog.csdn.net/weixin_56622231/article/details/165339986) · `2026-09-14` · CSDN
-- [同样写 AI，为什么有的文章 549 人看、有的只有 16 人看？——我用 40 篇掘金文章的真实数据复盘](https://juejin.cn/post/7684646620394979355) · `2026-09-12` · 掘金
+- [2026年分布式系统设计趋势深度解析：从CAP到BASE，从一致性到可用性的平衡艺术](https://blog.csdn.net/weixin_56622231/article/details/164628304) · `2026-09-08` · CSDN
+- [2026年后端架构设计趋势深度解析：从单体到微服务，从分布式到云原生](https://blog.csdn.net/weixin_56622231/article/details/164626416) · `2026-09-08` · CSDN
+- [2026年开发工具与效率提升指南：从IDE到命令行，打造你的开发战斗机](https://blog.csdn.net/weixin_56622231/article/details/164625248) · `2026-09-08` · CSDN
+- [DevOps 深度指南：从理念到实践](https://blog.csdn.net/weixin_56622231/article/details/164624608) · `2026-09-08` · CSDN
+- [2026年数据结构与算法学习指南：从入门到精通，程序员的必修之路](https://blog.csdn.net/weixin_56622231/article/details/164623812) · `2026-09-08` · CSDN
+- [2026年代码编辑器发展趋势深度解析：从Vim到VS Code，从本地到云端的演进之路](https://blog.csdn.net/weixin_56622231/article/details/164623121) · `2026-09-08` · CSDN
 <!-- BLOG:END -->
 
 ## 开源雷达
