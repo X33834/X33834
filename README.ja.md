@@ -29,7 +29,7 @@
 ## 統計
 
 <!-- STATS:START -->
-- ⭐ **12** stars（4プラットフォーム最大値）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ リポジトリ**（GitCode 基準）
+- ⭐ **11** stars（4プラットフォーム最大値）&nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **16+ リポジトリ**（GitCode 基準）
 <!-- STATS:END -->
 
 <p align="center">
