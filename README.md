@@ -5,7 +5,10 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C9A86A&center=true&vCenter=true&width=640&height=50&lines=%E5%A4%9C%E8%A7%82%E6%98%9F%E8%B1%A1%EF%BC%8C%E4%BB%A5%E4%BB%A3%E7%A0%81%E4%BD%9C%E8%88%9F%E3%80%82;%E4%B8%8E%E5%85%B6%E6%9B%B4%E5%A5%BD%EF%BC%8C%E4%B8%8D%E5%A6%82%E4%B8%8D%E5%90%8C;Code%20under%20the%20stars%2C%20ship%20with%20the%20dawn" alt="typing" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/typing-card.svg">
+  <img src="./assets/profile-verse/typing-card-light.svg" alt="typing"  width="100%" />
+</picture>
 </div>
 
 ## About
@@ -28,40 +31,56 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 
 ## Stats
 
-<!-- STATS:START -->
-- ⭐ **22** stars (max across 4 platforms) &nbsp;·&nbsp; 👥 **13** followers &nbsp;·&nbsp; 📦 **22+ repos** (GitCode-based)
-<!-- STATS:END -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morningstar202604&style=flat-square&color=C9A86A&label=Profile+Views" alt="profile views" />
+</p>
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
+  <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+</picture>
 </p>
 
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Morningstar202604&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" width="70%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/streak-card.svg">
+  <img src="./assets/profile-verse/streak-card-light.svg" alt="GitHub streak"  width="100%" />
+</picture>
 </p>
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="./assets/3d-contrib-green.png" alt="3D Contribution" width="98%" />
-</p>
-
-<p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/contrib-grid-card.svg">
+  <img src="./assets/profile-verse/contrib-grid-card-light.svg" alt="3D Contribution"  width="100%" />
+</picture>
 </p>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-stack.png" alt="tech stack" width="620" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/tech-stack-card.svg">
+  <img src="./assets/profile-verse/tech-stack-card-light.svg" alt="tech stack"  width="100%" />
+</picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/snake.yml?label=snake&logo=github&logoColor=white&style=flat-square&color=2ea44f" alt="snake workflow" /></a>
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-3d.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-3d.yml?label=profile-3d&logo=github&logoColor=white&style=flat-square&color=2ea44f" alt="profile-3d workflow" /></a>
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=2ea44f" alt="update-stats workflow" /></a>
+  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-verse.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-verse.yml?label=profile-verse&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="profile-verse workflow" /></a>
+  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="update-stats workflow" /></a>
+</p>
+
+## Badges
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/badge-card.svg">
+  <img src="./assets/profile-verse/badge-card-light.svg" alt="badges"  width="100%" />
+</picture>
 </p>
 
 ## Projects
@@ -79,6 +98,18 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 <!-- PROJECTS:END -->
 
 ## Open Source Contributions
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
+  <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
+  <img src="./assets/profile-verse/year-review-card-light.svg" alt="year in review"  width="100%" />
+</picture>
+</p>
 
 Merged into some of the most starred open source projects — **16 PRs merged across two GitHub accounts**, including **ohmyzsh (189k★)** and **tldr-pages (64k★)**.
 
@@ -156,5 +187,9 @@ Also merged into [EnderBridge](https://github.com/Hydrooxzgen/EnderBridge) (110�
 </p>
 
 <p align="center">
-  <sub>&copy; Morningstar202604</sub>
+  <p align="center">
+  <sub>Built with <a href="https://github.com/Morningstar202604/profile-verse">Profile Verse</a> · zero-server GitHub cards</sub>
+</p>
+
+<sub>&copy; Morningstar202604</sub>
 </p>
