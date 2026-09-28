@@ -152,7 +152,3 @@ jobs:
             git pull --rebase --autostash origin main || git rebase --abort
             git push || { git fetch origin && git rebase --autostash origin/main && git push; }
           fi
-      - name: Mirror to Gitee & GitCode
-        run: |
-          git push "https://badhope:${{ secrets.GITEE_TOKEN }}@gitee.com/badhope/badhope.git" HEAD:main --force
-          git push "https://oauth2:${{ secrets.GITCODE_TOKEN }}@gitcode.com/badhope/badhope.git" HEAD:main --force
