@@ -4,12 +4,7 @@
   <img src="./assets/banner-header.svg" alt="header" width="100%" />
 </p>
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/typing-card.svg">
-  <img src="./assets/profile-verse/typing-card-light.svg" alt="typing"  width="100%" />
-</picture>
-</div>
+
 
 ## About
 
@@ -20,7 +15,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 
 ### 🌐 Four-Platform Mirror &nbsp;`one page · four places`
 
-> The same profile is mirrored & synced across four platforms — two GitHub accounts + GitCode + Gitee; contributions & works aggregated.
+> One identity mirrored across four platforms — two GitHub accounts + GitCode + Gitee; each platform refreshes its own real data, contributions & works aggregated.
 
 | Platform | Account | Focus |
 |------|------|------|
@@ -29,7 +24,7 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 | **GitCode** | [badhope](https://gitcode.com/badhope) | Mobile dev · Offline tools |
 | **Gitee** | [badhope](https://gitee.com/badhope) | Mirror · Mini-programs |
 
-## Stats
+## Profile Verse · 10 Cards
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morningstar202604&style=flat-square&color=C9A86A&label=Profile+Views" alt="profile views" />
@@ -37,74 +32,21 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
-  <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/wall-dark.png">
+  <img src="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/wall-light.png" alt="Profile Verse — all 10 cards"  width="100%" />
 </picture>
 </p>
-
-## Streak
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/streak-card.svg">
-  <img src="./assets/profile-verse/streak-card-light.svg" alt="GitHub streak"  width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/hero-home.png">
+  <img src="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/hero-light.png" alt="Profile Verse hero"  width="100%" />
 </picture>
 </p>
 
-## Contribution Graph
+<p align="center"><sub>Rebuilt automatically every day at 01:00 UTC by [Profile Verse](https://github.com/X33834/profile-cards) · real data from the GitHub API</sub></p>
 
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/contrib-grid-card.svg">
-  <img src="./assets/profile-verse/contrib-grid-card-light.svg" alt="3D Contribution"  width="100%" />
-</picture>
-</p>
-
-## Tech Stack
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/tech-stack-card.svg">
-  <img src="./assets/profile-verse/tech-stack-card-light.svg" alt="tech stack"  width="100%" />
-</picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-verse.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-cards.yml?label=profile-verse&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="profile-verse workflow" /></a>
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="update-stats workflow" /></a>
-</p>
-
-## Badges
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/badge-card.svg">
-  <img src="./assets/profile-verse/badge-card-light.svg" alt="badges"  width="100%" />
-</picture>
-</p>
-
-## Projects
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/projects-card.svg">
-  <img src="./assets/profile-verse/projects-card-light.svg" alt="projects"  width="100%" />
-</picture>
-</p>
-
-## Open Source Contributions
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
-  <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
-  <img src="./assets/profile-verse/year-review-card-light.svg" alt="year in review"  width="100%" />
-</picture>
-</p>
+<p align="center"><a href="https://github.com/X33834/profile-cards/actions"><img src="https://img.shields.io/github/actions/workflow/status/X33834/profile-cards/update.yml?label=cards-refresh&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="cards refresh" /></a></p>
 
 ### 📌 Contributions across four platforms
 
@@ -113,15 +55,16 @@ A developer who turns abstract ideas into tangible interfaces. Focused on full-s
 - **GitCode · badhope** — [link](https://gitcode.com/badhope) · 16 open source projects mirrored (mobile IDE / AI assistant / learning terminal)
 - **Gitee · badhope** — [link](https://gitee.com/badhope) · Project mirror + mini-program portfolio
 
+
 ## Blog
 
 <!-- BLOG:START -->
-- [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338) · `2026-09-30` · 掘金
 - [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) · `2026-09-27` · CSDN
 - [Playwright 多平台分发：8 个踩坑与合规门禁](https://juejin.cn/post/7689408456146616347) · `2026-09-27` · 掘金
 - [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) · `2026-09-25` · CSDN
 - [Render用Go扛1500亿请求，Cloudflare用Rust快1000倍：这场战争里没有赢家，只有场景](https://juejin.cn/post/7689030185366159406) · `2026-09-25` · 掘金
 - [35岁程序员求职周期127天：不是年龄歧视，是性价比歧视——但 victims 还是我们](https://juejin.cn/post/7688942552990171171) · `2026-09-25` · 掘金
+- [我的QQ群友给我发了一个「奶蛙圣殿」，我进去之后陷入了沉思](https://juejin.cn/post/7688988203789385728) · `2026-09-25` · 掘金
 <!-- BLOG:END -->
 
 ## Open Source Radar

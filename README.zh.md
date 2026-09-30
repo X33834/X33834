@@ -4,12 +4,7 @@
   <img src="./assets/banner-header.svg" alt="header" width="100%" />
 </p>
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/typing-card.svg">
-  <img src="./assets/profile-verse/typing-card-light.svg" alt="typing"  width="100%" />
-</picture>
-</div>
+
 
 ## 关于
 
@@ -20,7 +15,7 @@
 
 ### 🌐 四平台镜像 &nbsp;`一页 · 四地 · 互为镜像`
 
-> 同一份主页在四个平台互为镜像同步——GitHub 双账号 + GitCode + Gitee，贡献与作品跨平台聚合展示。
+> 同一份主页在四个平台互为镜像——GitHub 双账号 + GitCode + Gitee，各平台数据各自实时刷新，贡献与作品跨平台聚合展示。
 
 | 平台 | 账号 | 定位 |
 |------|------|------|
@@ -29,7 +24,7 @@
 | **GitCode** | [badhope](https://gitcode.com/badhope) | 移动端开发 · 离线工具 |
 | **Gitee** | [badhope](https://gitee.com/badhope) | 作品镜像 · 小程序 |
 
-## 统计
+## Profile Verse · 全家桶 10 卡
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Morningstar202604&style=flat-square&color=C9A86A&label=Profile+Views" alt="profile views" />
@@ -37,74 +32,21 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/stats-card.svg">
-  <img src="./assets/profile-verse/stats-card-light.svg" alt="profile stats"  width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/wall-dark.png">
+  <img src="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/wall-light.png" alt="Profile Verse — 全部 10 张卡片"  width="100%" />
 </picture>
 </p>
-
-## 连续提交
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/streak-card.svg">
-  <img src="./assets/profile-verse/streak-card-light.svg" alt="GitHub streak"  width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/hero-home.png">
+  <img src="https://raw.githubusercontent.com/X33834/profile-cards/main/assets/showcase/hero-light.png" alt="Profile Verse 头图"  width="100%" />
 </picture>
 </p>
 
-## 贡献热力图
+<p align="center"><sub>由 [Profile Verse](https://github.com/X33834/profile-cards) 组件每天 01:00 UTC 自动重建 · 数据来自真实 GitHub API</sub></p>
 
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/contrib-grid-card.svg">
-  <img src="./assets/profile-verse/contrib-grid-card-light.svg" alt="3D Contribution"  width="100%" />
-</picture>
-</p>
-
-## 技术栈
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/tech-stack-card.svg">
-  <img src="./assets/profile-verse/tech-stack-card-light.svg" alt="tech stack"  width="100%" />
-</picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/profile-verse.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/profile-cards.yml?label=profile-verse&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="profile-verse workflow" /></a>
-  <a href="https://github.com/Morningstar202604/Morningstar202604/actions/workflows/update-stats.yml"><img src="https://img.shields.io/github/actions/workflow/status/Morningstar202604/Morningstar202604/update-stats.yml?label=update-stats&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="update-stats workflow" /></a>
-</p>
-
-## 徽章
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/badge-card.svg">
-  <img src="./assets/profile-verse/badge-card-light.svg" alt="badges"  width="100%" />
-</picture>
-</p>
-
-## 项目
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/projects-card.svg">
-  <img src="./assets/profile-verse/projects-card-light.svg" alt="projects"  width="100%" />
-</picture>
-</p>
-
-## 开源贡献
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/impact-card.svg">
-  <img src="./assets/profile-verse/impact-card-light.svg" alt="open source impact"  width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-verse/year-review-card.svg">
-  <img src="./assets/profile-verse/year-review-card-light.svg" alt="年度回顾"  width="100%" />
-</picture>
-</p>
+<p align="center"><a href="https://github.com/X33834/profile-cards/actions"><img src="https://img.shields.io/github/actions/workflow/status/X33834/profile-cards/update.yml?label=cards-refresh&logo=github&logoColor=white&style=flat-square&color=C9A86A" alt="cards refresh" /></a></p>
 
 ### 📌 四平台贡献一览
 
@@ -113,15 +55,16 @@
 - **GitCode · badhope** — [链接](https://gitcode.com/badhope) · 16 个开源项目镜像（移动端 IDE / AI 助手 / 学习终端）
 - **Gitee · badhope** — [链接](https://gitee.com/badhope) · 项目镜像 + 小程序作品集
 
+
 ## 博客
 
 <!-- BLOG:START -->
-- [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338) · `2026-09-30` · 掘金
 - [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) · `2026-09-27` · CSDN
 - [Playwright 多平台分发：8 个踩坑与合规门禁](https://juejin.cn/post/7689408456146616347) · `2026-09-27` · 掘金
 - [AI Agent 智能体开发从零到一：2026年程序员完整学习路线与实战指南](https://blog.csdn.net/weixin_56622231/article/details/166643070) · `2026-09-25` · CSDN
 - [Render用Go扛1500亿请求，Cloudflare用Rust快1000倍：这场战争里没有赢家，只有场景](https://juejin.cn/post/7689030185366159406) · `2026-09-25` · 掘金
 - [35岁程序员求职周期127天：不是年龄歧视，是性价比歧视——但 victims 还是我们](https://juejin.cn/post/7688942552990171171) · `2026-09-25` · 掘金
+- [我的QQ群友给我发了一个「奶蛙圣殿」，我进去之后陷入了沉思](https://juejin.cn/post/7688988203789385728) · `2026-09-25` · 掘金
 <!-- BLOG:END -->
 
 ## 开源雷达
