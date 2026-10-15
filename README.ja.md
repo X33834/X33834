@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/activity-ja.svg" alt="20 公開リポジトリ · 3 累計スター · 1 フォロワー · 1 上流へのマージ" width="100%" />
+  <img src="./assets/activity-ja.svg" alt="33 公開リポジトリ · 3 累計スター · 4 フォロワー · 1 上流へのマージ" width="100%" />
 </p>
 
 ## ピン留め作品
