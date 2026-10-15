@@ -53,7 +53,7 @@ All public repositories: [github.com/X33834](https://github.com/X33834)
 </p>
 
 <p align="center">
-  <img src="./assets/activity-md.svg" alt="20 public repos · 3 stars · 1 followers · 1 upstream merges" width="100%" />
+  <img src="./assets/activity-md.svg" alt="33 public repos · 3 stars · 4 followers · 1 upstream merges" width="100%" />
 </p>
 
 ## Pinned work
