@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/activity-zh-CN.svg" alt="20 公开仓库 · 3 累计 Star · 1 关注者 · 1 上游合并" width="100%" />
+  <img src="./assets/activity-zh-CN.svg" alt="32 公开仓库 · 3 累计 Star · 4 关注者 · 1 上游合并" width="100%" />
 </p>
 
 ## 置顶作品
