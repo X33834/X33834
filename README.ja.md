@@ -41,7 +41,7 @@
   <img src="./assets/works-ja.svg" alt="主な作品" width="100%" />
 </p>
 
-<p align="center"><sub>[Xiaoman 小满](https://github.com/X33834/xiaoman) · [ShopCash 店收宝](https://github.com/X33834/shopcash) · [DigiLegacy 归零](https://github.com/X33834/digilegacy) · [Naiwa 奶蛙](https://github.com/X33834/naiwa-pet) · [Agent Builder](https://github.com/X33834/agent-builder) · [Workbench](https://github.com/X33834/workbench) · [Awesome AI DevKit](https://github.com/X33834/awesome-ai-devkit) · [Awesome SkillKit](https://github.com/X33834/awesome-skillkit)</sub></p>
+<p align="center"><sub><a href="https://github.com/X33834/xiaoman">Xiaoman 小满</a> · <a href="https://github.com/X33834/shopcash">ShopCash 店收宝</a> · <a href="https://github.com/X33834/digilegacy">DigiLegacy 归零</a> · <a href="https://github.com/X33834/naiwa-pet">Naiwa 奶蛙</a> · <a href="https://github.com/X33834/agent-builder">Agent Builder</a> · <a href="https://github.com/X33834/workbench">Workbench</a> · <a href="https://github.com/X33834/awesome-ai-devkit">Awesome AI DevKit</a> · <a href="https://github.com/X33834/awesome-skillkit">Awesome SkillKit</a></sub></p>
 
 全公開リポジトリ： [github.com/X33834](https://github.com/X33834)
 
@@ -92,7 +92,7 @@
 | 2026-09-21 | [Python协程全景解析：从原理到生产实战](https://blog.csdn.net/weixin_56622231/article/details/166252941) |
 | 2026-09-15 | [【分布式第一课】从单机到百万级并发：一小时带你看懂分布式系统的前世今生](https://blog.csdn.net/weixin_56622231/article/details/165435117) |
 
-<sub>同時掲載 <img src="./assets/icons/si-csdn.svg" width="15" alt="CSDN" /> [CSDN](https://blog.csdn.net/weixin_56622231) · <img src="./assets/icons/si-juejin.svg" width="15" alt="Juejin" /> [Juejin](https://juejin.cn/user/2350111542479753)</sub>
+<sub>同時掲載 <img src="./assets/icons/si-csdn.svg" width="15" alt="CSDN" /> <a href="https://blog.csdn.net/weixin_56622231">CSDN</a> · <img src="./assets/icons/si-juejin.svg" width="15" alt="Juejin" /> <a href="https://juejin.cn/user/2350111542479753">Juejin</a></sub>
 
 ## ほかの場所
 
