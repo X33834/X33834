@@ -52,10 +52,6 @@
   <img src="./assets/cards/langs-ja.svg" alt="Top languages" width="49%" />
 </p>
 
-<p align="center">
-  <img src="./assets/activity-ja.svg" alt="38 公開リポジトリ · 3 累計スター · 4 フォロワー · 1 上流へのマージ" width="100%" />
-</p>
-
 ## ピン留め作品
 
 <p align="center">

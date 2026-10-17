@@ -52,10 +52,6 @@ All public repositories: [github.com/X33834](https://github.com/X33834)
   <img src="./assets/cards/langs-en.svg" alt="Top languages" width="49%" />
 </p>
 
-<p align="center">
-  <img src="./assets/activity-md.svg" alt="38 public repos · 3 stars · 4 followers · 1 upstream merges" width="100%" />
-</p>
-
 ## Pinned work
 
 <p align="center">
