@@ -48,6 +48,11 @@ All public repositories: [github.com/X33834](https://github.com/X33834)
 ## Numbers
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FX33834&query=public_repos&style=flat&label=repos&labelColor=0E1630&color=D9B876" alt="repos: X33834" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FX33834&query=followers&style=flat&label=followers&labelColor=0E1630&color=D9B876" alt="followers: X33834" />
+</p>
+
+<p align="center">
   <img src="./assets/cards/stats-en.svg" alt="GitHub stats" width="49%" />
   <img src="./assets/cards/langs-en.svg" alt="Top languages" width="49%" />
 </p>
