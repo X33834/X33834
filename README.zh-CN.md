@@ -40,11 +40,14 @@
 
 ## 精选作品
 
-<p align="center">
-  <img src="./assets/works-zh-CN.svg" alt="精选作品" width="100%" />
-</p>
-
-<p align="center"><sub><a href="https://github.com/X33834/xiaoman">Xiaoman 小满</a> · <a href="https://github.com/X33834/shopcash">ShopCash 店收宝</a> · <a href="https://github.com/X33834/digilegacy">DigiLegacy 归零</a> · <a href="https://github.com/X33834/agent-builder">Agent Builder</a> · <a href="https://github.com/X33834/workbench">Workbench</a> · <a href="https://github.com/X33834/awesome-ai-devkit">Awesome AI DevKit</a> · <a href="https://github.com/X33834/awesome-skillkit">Awesome SkillKit</a></sub></p>
+| 项目 | 星标 | 最近更新 |
+| --- | --- | --- |
+| [world-walker — World Walker — an AI-driven text interactive fiction…](https://github.com/X33834/world-walker) | 1 | 2026-10-21 |
+| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/X33834/mashang) | 0 | 2026-10-21 |
+| [pocketmind — PocketMind — Termux 常驻手机 Agent](https://github.com/X33834/pocketmind) | 0 | 2026-10-21 |
+| [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/X33834/workbench) | 0 | 2026-10-21 |
+| [xiaoman — Xiaoman (小满) — a conversation-first, local-first personal…](https://github.com/X33834/xiaoman) | 0 | 2026-10-21 |
+| [zhike — 知客 Zhike — 知识问答平台](https://github.com/X33834/zhike) | 0 | 2026-10-21 |
 
 全部公开仓库： [github.com/X33834](https://github.com/X33834)
 
@@ -52,7 +55,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FX33834&query=public_repos&style=flat&label=%E4%BB%93%E5%BA%93&labelColor=0E1630&color=D9B876" alt="仓库: X33834" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FX33834&query=followers&style=flat&label=%E5%85%B3%E6%B3%A8%E8%80%85&labelColor=0E1630&color=D9B876" alt="关注者: X33834" />
+  <img src="https://img.shields.io/github/stars/X33834?style=flat&labelColor=0E1630&color=D9B876" alt="累计 Star: X33834" />
+  <img src="https://img.shields.io/github/followers/X33834?style=flat&labelColor=0E1630&color=D9B876" alt="关注者: X33834" />
 </p>
 
 <p align="center">
