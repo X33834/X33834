@@ -43,11 +43,11 @@
 | プロジェクト | スター | 更新日 |
 | --- | --- | --- |
 | [world-walker — World Walker — an AI-driven text interactive fiction…](https://github.com/X33834/world-walker) | 1 | 2026-10-21 |
+| [campushub — CampusHub — 校园服务平台](https://github.com/X33834/campushub) | 0 | 2026-10-21 |
+| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/X33834/GlobalEcom-AI) | 0 | 2026-10-21 |
 | [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/X33834/mashang) | 0 | 2026-10-21 |
 | [pocketmind — PocketMind — Termux 常驻手机 Agent](https://github.com/X33834/pocketmind) | 0 | 2026-10-21 |
 | [workbench — Workbench - a local-first desktop workbench (Tauri 2 +…](https://github.com/X33834/workbench) | 0 | 2026-10-21 |
-| [xiaoman — Xiaoman (小满) — a conversation-first, local-first personal…](https://github.com/X33834/xiaoman) | 0 | 2026-10-21 |
-| [zhike — 知客 Zhike — 知识问答平台](https://github.com/X33834/zhike) | 0 | 2026-10-21 |
 
 全公開リポジトリ： [github.com/X33834](https://github.com/X33834)
 
