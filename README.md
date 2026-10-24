@@ -42,12 +42,12 @@ I build small tools that do one thing well, and send the fixes back upstream —
 
 | Project | Stars | Updated |
 | --- | --- | --- |
-| [campushub — CampusHub — 校园服务平台](https://github.com/X33834/campushub) | 0 | 2026-10-23 |
-| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/X33834/EQ-Worker) | 0 | 2026-10-23 |
-| [GlobalEcom-AI — GlobalEcom AI — 电商平台（AI 模块 / 支付 / 退款 / 集合 / CMS）](https://github.com/X33834/GlobalEcom-AI) | 0 | 2026-10-23 |
-| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript 运…](https://github.com/X33834/mashang) | 0 | 2026-10-23 |
-| [melee — melee 转播台 — AI 对抗赛事转播层：6 种确定性赛制、实时 SSE、回放、导播、事实校验战报、高光渲染 ·…](https://github.com/X33834/melee) | 0 | 2026-10-23 |
-| [pocketmind — PocketMind — Termux 常驻手机 Agent](https://github.com/X33834/pocketmind) | 0 | 2026-10-23 |
+| [world-walker — World Walker 万界·行者 — 世界观无关的 AI 文字互动游戏内核：确定性规则结算 + 34…](https://github.com/X33834/world-walker) | 1 | 2026-10-24 |
+| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/X33834/aquapilot) | 0 | 2026-10-24 |
+| [campushub — CampusHub — 校园服务平台](https://github.com/X33834/campushub) | 0 | 2026-10-24 |
+| [creator-studio — 稿台 Creator Studio: 本地优先的创作者 AI 制片台（选题→资料→脚本→分镜→包装→…](https://github.com/X33834/creator-studio) | 0 | 2026-10-24 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-24 |
+| [Flow — Flow · AI 原生跨境出口电商平台｜买家商城 + 卖家 AI 工作台，5 个真实 LLM Agent、人工审批式运…](https://github.com/X33834/Flow) | 0 | 2026-10-24 |
 
 All public repositories: [github.com/X33834](https://github.com/X33834)
 
