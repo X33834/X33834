@@ -42,12 +42,12 @@
 
 | プロジェクト | スター | 更新日 |
 | --- | --- | --- |
+| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/X33834/aquapilot) | 0 | 2026-10-25 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-25 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-25 |
+| [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/X33834/sciflow) | 0 | 2026-10-25 |
+| [spark — Spark — local-first AI coding agent (Ember)](https://github.com/X33834/spark) | 0 | 2026-10-25 |
 | [world-walker — World Walker 万界·行者 — 世界观无关的 AI 文字互动游戏内核：确定性规则结算 + 34…](https://github.com/X33834/world-walker) | 1 | 2026-10-24 |
-| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/X33834/aquapilot) | 0 | 2026-10-24 |
-| [campushub — CampusHub — 校园服务平台](https://github.com/X33834/campushub) | 0 | 2026-10-24 |
-| [creator-studio — 稿台 Creator Studio: 本地优先的创作者 AI 制片台（选题→资料→脚本→分镜→包装→…](https://github.com/X33834/creator-studio) | 0 | 2026-10-24 |
-| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-24 |
-| [Flow — Flow · AI 原生跨境出口电商平台｜买家商城 + 卖家 AI 工作台，5 个真实 LLM Agent、人工审批式运…](https://github.com/X33834/Flow) | 0 | 2026-10-24 |
 
 全公開リポジトリ： [github.com/X33834](https://github.com/X33834)
 
