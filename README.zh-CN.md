@@ -42,12 +42,12 @@
 
 | 项目 | 星标 | 最近更新 |
 | --- | --- | --- |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-26 |
+| [zhike — Zhike — self-hosted agent harness for personal assistants:…](https://github.com/X33834/zhike) | 0 | 2026-10-26 |
 | [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/X33834/aquapilot) | 0 | 2026-10-25 |
 | [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-25 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-25 |
 | [sciflow — SciFlow - fully automated AI research assistant: local-fi…](https://github.com/X33834/sciflow) | 0 | 2026-10-25 |
 | [spark — Spark — local-first AI coding agent (Ember)](https://github.com/X33834/spark) | 0 | 2026-10-25 |
-| [world-walker — World Walker 万界·行者 — 世界观无关的 AI 文字互动游戏内核：确定性规则结算 + 34…](https://github.com/X33834/world-walker) | 1 | 2026-10-24 |
 
 全部公开仓库： [github.com/X33834](https://github.com/X33834)
 
