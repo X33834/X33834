@@ -42,10 +42,10 @@
 
 | プロジェクト | スター | 更新日 |
 | --- | --- | --- |
-| [agent-work-contract — Portable AI working contract: rules, 71 skill…](https://github.com/X33834/agent-work-contract) | 0 | 2026-10-28 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-29 |
+| [rules — Portable AI working contract: rules, 71 skills, 220 subagen…](https://github.com/X33834/rules) | 0 | 2026-10-29 |
 | [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-28 |
 | [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/X33834/moneyhelper) | 0 | 2026-10-28 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-28 |
 | [zhike — Self-hosted agent harness for personal assistants: OpenAI f…](https://github.com/X33834/zhike) | 0 | 2026-10-28 |
 | [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/X33834/EQ-Worker) | 0 | 2026-10-27 |
 
