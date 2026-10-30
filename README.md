@@ -42,7 +42,7 @@ I build small tools that do one thing well, and send the fixes back upstream —
 
 | Project | Stars | Updated |
 | --- | --- | --- |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-29 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-30 |
 | [rules — Portable AI working contract: rules, 71 skills, 220 subagen…](https://github.com/X33834/rules) | 0 | 2026-10-29 |
 | [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-28 |
 | [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/X33834/moneyhelper) | 0 | 2026-10-28 |
