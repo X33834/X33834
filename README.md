@@ -9,7 +9,7 @@
 
 <p align="center"><i>Ship small, ship often.</i></p>
 
-<p align="center"><sub>First, solve the problem. Then, write the code. — John Johnson</sub></p>
+<p align="center"><sub>Slow is smooth, and smooth is fast.</sub></p>
 
 <table border="0">
 <tr>
@@ -42,12 +42,12 @@ I build small tools that do one thing well, and send the fixes back upstream —
 
 | Project | Stars | Updated |
 | --- | --- | --- |
-| [aquapilot — AI-operated wastewater treatment plant simulator — topo…](https://github.com/X33834/aquapilot) | 0 | 2026-10-31 |
-| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-10-31 |
-| [rules — Portable AI working contract: rules, 71 skills, 220 subagen…](https://github.com/X33834/rules) | 0 | 2026-10-29 |
-| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-10-28 |
-| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/X33834/moneyhelper) | 0 | 2026-10-28 |
-| [zhike — Self-hosted agent harness for personal assistants: OpenAI f…](https://github.com/X33834/zhike) | 0 | 2026-10-28 |
+| [DU — 天机台：不上传数据的本地玄学大师测评平台。](https://github.com/X33834/DU) | 0 | 2026-11-01 |
+| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/X33834/EQ-Worker) | 0 | 2026-11-01 |
+| [melee — 把 AI 对抗做成节目：六种确定性赛制、SSE 直播、可拖动回放、自动+人工导播、事实校验战报、高光视频与分享卡。](https://github.com/X33834/melee) | 0 | 2026-11-01 |
+| [quiz-chest — 题匣 QuizChest：本地优先的自有题库练习应用](https://github.com/X33834/quiz-chest) | 0 | 2026-11-01 |
+| [rubbish — ScholarHub — 期刊/预印本平台](https://github.com/X33834/rubbish) | 0 | 2026-11-01 |
+| [rules — Portable AI working contract: rules, 71 skills, 220 subagen…](https://github.com/X33834/rules) | 0 | 2026-11-01 |
 
 All public repositories: [github.com/X33834](https://github.com/X33834)
 
