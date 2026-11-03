@@ -42,12 +42,12 @@
 
 | プロジェクト | スター | 更新日 |
 | --- | --- | --- |
-| [content-harbor — Self-hosted AI publishing hub - write once, ship t…](https://github.com/X33834/content-harbor) | 2 | 2026-11-02 |
-| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/X33834/aquapilot) | 0 | 2026-11-02 |
-| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/X33834/creator-studio) | 0 | 2026-11-02 |
-| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/X33834/DU) | 0 | 2026-11-02 |
-| [EQ-Worker — EQ-Worker 人情世故助手：今日行动、人情账本、随礼参谋、话术参谋、关系体检。本地优先，数据不出本机。v…](https://github.com/X33834/EQ-Worker) | 0 | 2026-11-02 |
-| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/X33834/moneyhelper) | 0 | 2026-11-02 |
+| [harbor — Self-hosted AI publishing hub - write once, ship to 15 pla…](https://github.com/X33834/harbor) | 2 | 2026-11-03 |
+| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/X33834/world-walker) | 1 | 2026-11-03 |
+| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/X33834/aquapilot) | 0 | 2026-11-03 |
+| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/X33834/creator-studio) | 0 | 2026-11-03 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-11-03 |
+| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/X33834/DU) | 0 | 2026-11-03 |
 
 全公開リポジトリ： [github.com/X33834](https://github.com/X33834)
 
