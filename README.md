@@ -42,12 +42,12 @@ I build small tools that do one thing well, and send the fixes back upstream —
 
 | Project | Stars | Updated |
 | --- | --- | --- |
-| [harbor — Self-hosted AI publishing hub - write once, ship to 15 pla…](https://github.com/X33834/harbor) | 2 | 2026-11-03 |
-| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/X33834/world-walker) | 1 | 2026-11-03 |
-| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/X33834/aquapilot) | 0 | 2026-11-03 |
-| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/X33834/creator-studio) | 0 | 2026-11-03 |
-| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-11-03 |
-| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/X33834/DU) | 0 | 2026-11-03 |
+| [harbor — Self-hosted AI publishing hub - write once, ship to 15 pla…](https://github.com/X33834/harbor) | 2 | 2026-11-04 |
+| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/X33834/world-walker) | 1 | 2026-11-04 |
+| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/X33834/aquapilot) | 0 | 2026-11-04 |
+| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/X33834/creator-studio) | 0 | 2026-11-04 |
+| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-11-04 |
+| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/X33834/DU) | 0 | 2026-11-04 |
 
 All public repositories: [github.com/X33834](https://github.com/X33834)
 
