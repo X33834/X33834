@@ -42,12 +42,12 @@ I build small tools that do one thing well, and send the fixes back upstream —
 
 | Project | Stars | Updated |
 | --- | --- | --- |
+| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/X33834/world-walker) | 1 | 2026-11-05 |
+| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(R…](https://github.com/X33834/mashang) | 0 | 2026-11-05 |
+| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/X33834/moneyhelper) | 0 | 2026-11-05 |
+| [no-money — Income, tax, social-insurance and labor-rights calculato…](https://github.com/X33834/no-money) | 0 | 2026-11-05 |
 | [harbor — Self-hosted AI publishing hub - write once, ship to 15 pla…](https://github.com/X33834/harbor) | 2 | 2026-11-04 |
-| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/X33834/world-walker) | 1 | 2026-11-04 |
 | [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/X33834/aquapilot) | 0 | 2026-11-04 |
-| [creator-studio — Local-first AI production desk for solo creators:…](https://github.com/X33834/creator-studio) | 0 | 2026-11-04 |
-| [digilegacy — DigiLegacy 归零 — open-source, local-first digital legac…](https://github.com/X33834/digilegacy) | 0 | 2026-11-04 |
-| [DU — Tianji (DU) — a local-only Chinese metaphysics master arena. T…](https://github.com/X33834/DU) | 0 | 2026-11-04 |
 
 All public repositories: [github.com/X33834](https://github.com/X33834)
 
@@ -94,11 +94,11 @@ All public repositories: [github.com/X33834](https://github.com/X33834)
 
 | Date | Article |
 |---|---|
+| 2026-11-04 | [把 AI Agent 接进业务系统，我踩了3 个挺蠢的坑](https://blog.csdn.net/weixin_56622231/article/details/170051167) |
 | 2026-10-18 | [Gemini 4 Argon 全面开放：谷歌憋了半年的旗舰大招，到底行不行？](https://blog.csdn.net/weixin_56622231/article/details/168251657) |
 | 2026-10-16 | [MCP 落地一年，我总结了 6 个没人告诉你的工程真相](https://zhuanlan.zhihu.com/p/2094232145015453253) |
 | 2026-10-16 | [本地优先 AI：当所有人都在上云，我为什么把 AI 装回自己电脑](https://zhuanlan.zhihu.com/p/2094233605513991576) |
 | 2026-10-16 | [AI Agent 上线前必须过的 5 道关：一个真实项目的工程手记](https://zhuanlan.zhihu.com/p/2094218858789856836) |
-| 2026-09-27 | [Playwright 多平台分发：8 个踩坑与合规门禁](https://blog.csdn.net/weixin_56622231/article/details/166698802) |
 
 <sub>Also on <img src="./assets/icons/si-csdn.svg" width="15" alt="CSDN" /> <a href="https://blog.csdn.net/weixin_56622231">CSDN</a> · <img src="./assets/icons/si-juejin.svg" width="15" alt="Juejin" /> <a href="https://juejin.cn/user/2350111542479753">Juejin</a> · <img src="./assets/icons/si-zhihu.svg" width="15" alt="Zhihu" /> <a href="https://www.zhihu.com/people/e7c851hd">Zhihu</a></sub>
 
