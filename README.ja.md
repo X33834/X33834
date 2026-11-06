@@ -1,121 +1,69 @@
-[English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md)
+<p align="right"><sub>[English](README.md) · [中文](README.zh-CN.md) · <b>日本語</b></sub></p>
 
-<p align="center">
-  <picture>
-  <source type="image/png" srcset="./assets/png/hero.png" />
-  <img src="./assets/hero.svg" alt="X33834 · github.com/X33834" width="100%" />
-  </picture>
-</p>
+<p align="center"><img src="assets/taiji.svg" alt="taiji" width="220" /></p>
 
-<p align="center"><i>小さく作って、頻繁に出す。</i></p>
+<p align="center"><img src="assets/hero-ja.svg" alt="X33834 · github.com/X33834" width="100%" /></p>
 
-<p align="center"><sub>Slow is smooth, and smooth is fast.</sub></p>
+<p align="center"><img src="assets/typing-ja.svg" alt="typing" width="100%" /></p>
 
-<table border="0">
-<tr>
-<td valign="top" width="58%">
+## いま
 
-### について
+- **apache/airflow** はマージ済み。betterleaks と lefthook はレビュー中
+- **world-walker** とオフライン mobile ツールを維持
+- コードを読むのが仕事であり趣味
 
-小さく使える道具を作り、直したパッチは上流へ返します（apache/airflow などにマージ済み）。日常は TypeScript / Python。
+## 代表作
 
-</td>
-<td valign="top" width="42%">
+<p align="center"><a href="https://github.com/badhope/world-walker"><img src="assets/work-1-ja.svg" alt="world-walker" width="49.2%" /></a> <a href="https://github.com/X33834/harbor"><img src="assets/work-2-ja.svg" alt="harbor" width="49.2%" /></a></p>
 
-### 近況
+<p align="center"><a href="https://github.com/X33834/CodePocket"><img src="assets/work-3-ja.svg" alt="CodePocket" width="49.2%" /></a> <a href="https://github.com/badhope/mashang"><img src="assets/work-4-ja.svg" alt="mashang" width="49.2%" /></a></p>
 
-- ShopCash と Xiaoman の磨き込み
-- 上流への小さなパッチ（MonkeyCode #1298 レビュー中）
-- ローカル優先の AI ワークフロー探究
+> その他の作品：[harbor](https://github.com/X33834/harbor) · [CodePocket](https://github.com/X33834/CodePocket) · [moneyhelper](https://github.com/X33834/moneyhelper) · [digilegacy](https://github.com/X33834/digilegacy)
 
-</td>
-</tr>
-</table>
+## アクティビティ
 
-## 道具箱
-
-<p align="center">
-  <img src="./assets/skills-ja.svg" alt="道具箱" width="100%" />
-</p>
-
-## 主な作品
-
-| プロジェクト | スター | 更新日 |
-| --- | --- | --- |
-| [world-walker — World Games - the rules layer for AI-driven interact…](https://github.com/X33834/world-walker) | 1 | 2026-11-05 |
-| [mashang — 码上 Mashang — 赛博朋克风离线编程学习终端：内置 CPython 3.13 + JavaScript(R…](https://github.com/X33834/mashang) | 0 | 2026-11-05 |
-| [moneyhelper — Moneyhelper ｜ 算清每一笔，攒稳每一步 —— 对话优先的个人理财智能体：一句话记账、持仓风控、…](https://github.com/X33834/moneyhelper) | 0 | 2026-11-05 |
-| [no-money — Income, tax, social-insurance and labor-rights calculato…](https://github.com/X33834/no-money) | 0 | 2026-11-05 |
-| [harbor — Self-hosted AI publishing hub - write once, ship to 15 pla…](https://github.com/X33834/harbor) | 2 | 2026-11-04 |
-| [aquapilot — Topology-driven wastewater simulation prototype with an…](https://github.com/X33834/aquapilot) | 0 | 2026-11-04 |
-
-全公開リポジトリ： [github.com/X33834](https://github.com/X33834)
-
-## 数字で見る
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FX33834&query=public_repos&style=flat&label=%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA&labelColor=0E1630&color=D9B876" alt="リポジトリ: X33834" />
-  <img src="https://img.shields.io/github/stars/X33834?style=flat&labelColor=0E1630&color=D9B876" alt="累計スター: X33834" />
-  <img src="https://img.shields.io/github/followers/X33834?style=flat&labelColor=0E1630&color=D9B876" alt="フォロワー: X33834" />
-</p>
-
-<p align="center">
-  <img src="./assets/cards/stats-ja.svg" alt="GitHub stats" width="49%" />
-  <img src="./assets/cards/langs-ja.svg" alt="Top languages" width="49%" />
-</p>
-
-## ピン留め作品
-
-<p align="center">
-  <img src="./assets/cards/pin-1-ja.svg" alt="pinned work" width="32%" />
-  <img src="./assets/cards/pin-2-ja.svg" alt="pinned work" width="32%" />
-  <img src="./assets/cards/pin-3-ja.svg" alt="pinned work" width="32%" />
-</p>
-
-## コントリビューション
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-  <img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X33834/X33834/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/X33834/X33834/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
+</picture>
 
 ## オープンソース
 
-**上流マージ済み**
-- [apache/airflow](https://github.com/apache/airflow) — [#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table
+| Upstream | Record |
+| --- | --- |
+| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 3 merged · 3 under review |
+| [renovate-operator](https://github.com/mogenius/renovate-operator) | 1 merged · 1 under review |
+| [icalendar](https://github.com/python-icalendar/icalendar) | 3 merged |
+| [apache/airflow](https://github.com/apache/airflow) | 1 merged |
+| [betterleaks · lefthook · scrapy](https://github.com/betterleaks/betterleaks) | under review |
 
-**レビュー中**
-- [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode) — [#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — frontend auto-resize fix
-- [y1s11564/simona-desktop-app](https://github.com/y1s11564/simona-desktop-app) — [#1](https://github.com/y1s11564/simona-desktop-app/pull/1) · [#2](https://github.com/y1s11564/simona-desktop-app/pull/2) · [#3](https://github.com/y1s11564/simona-desktop-app/pull/3) · [#4](https://github.com/y1s11564/simona-desktop-app/pull/4) · [#5](https://github.com/y1s11564/simona-desktop-app/pull/5) · [#6](https://github.com/y1s11564/simona-desktop-app/pull/6) — upstream patch series
+<sub>このアカウントと [badhope](https://github.com/badhope) / [Morningstar202604](https://github.com/Morningstar202604) にまたがる記録。</sub>
 
-## 執筆
-
-| 日付 | 記事 |
-|---|---|
-| 2026-11-04 | [把 AI Agent 接进业务系统，我踩了3 个挺蠢的坑](https://blog.csdn.net/weixin_56622231/article/details/170051167) |
-| 2026-10-18 | [Gemini 4 Argon 全面开放：谷歌憋了半年的旗舰大招，到底行不行？](https://blog.csdn.net/weixin_56622231/article/details/168251657) |
-| 2026-10-16 | [MCP 落地一年，我总结了 6 个没人告诉你的工程真相](https://zhuanlan.zhihu.com/p/2094232145015453253) |
-| 2026-10-16 | [本地优先 AI：当所有人都在上云，我为什么把 AI 装回自己电脑](https://zhuanlan.zhihu.com/p/2094233605513991576) |
-| 2026-10-16 | [AI Agent 上线前必须过的 5 道关：一个真实项目的工程手记](https://zhuanlan.zhihu.com/p/2094218858789856836) |
-
-<sub>同時掲載 <img src="./assets/icons/si-csdn.svg" width="15" alt="CSDN" /> <a href="https://blog.csdn.net/weixin_56622231">CSDN</a> · <img src="./assets/icons/si-juejin.svg" width="15" alt="Juejin" /> <a href="https://juejin.cn/user/2350111542479753">Juejin</a> · <img src="./assets/icons/si-zhihu.svg" width="15" alt="Zhihu" /> <a href="https://www.zhihu.com/people/e7c851hd">Zhihu</a></sub>
-
-## ほかの場所
-
-> 同一人物の5つの拠点 — これらのアカウントは同じ人のミラーです。
-
-| | プラットフォーム | アカウント | 役割 |
-|---|---|---|---|
-| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[X33834](https://github.com/X33834)** | 上流 OSS · ツールと作品 ◆ *現在地* |
-| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[Morningstar202604](https://github.com/Morningstar202604)** | ポートフォリオ · 長期プロジェクト |
-| <img src="./assets/icons/si-github.svg" width="18" alt="GitHub" /> | GitHub | **[badhope](https://github.com/badhope)** | プロフィール · ツール小屋 |
-| <img src="./assets/icons/si-gitcode.svg" width="18" alt="GitCode" /> | GitCode | **[badhope](https://gitcode.com/badhope)** | モバイル開発 · オフラインツール |
-| <img src="./assets/icons/si-gitee.svg" width="18" alt="Gitee" /> | Gitee | **[badhope](https://gitee.com/badhope)** | ミラー · ミニアプリ |
+## データ
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="" width="100%" />
+  <a href="https://github.com/badhope"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=badhope&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=github_dark" /><img height="165" src="https://github-readme-stats.vercel.app/api?username=badhope&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" /></picture></a>
+  <a href="https://github.com/badhope"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=badhope&amp;hide_border=true&amp;border_radius=0&amp;background=0D1117&amp;border=30363D&amp;stroke=4F46E5&amp;ring=A5B4FC&amp;fire=D9B876&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E" /><img height="165" src="https://streak-stats.demolab.com?user=badhope&amp;hide_border=true&amp;border_radius=0" alt="GitHub streak" /></picture></a>
+  <a href="https://github.com/badhope"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=badhope&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=github_dark" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhope&amp;layout=compact&amp;hide_border=true&amp;langs_count=8" alt="Top languages" /></picture></a>
 </p>
 
-<p align="center"><sub>© X33834</sub></p>
+## 書きもの
+
+- 2026-11-04 — [把 AI Agent 接进业务系统，我踩了3 个挺蠢的坑](https://blog.csdn.net/weixin_56622231/article/details/170051167)
+- 2026-10-18 — [Gemini 4 Argon 全面开放：谷歌憋了半年的旗舰大招，到底行不行？](https://blog.csdn.net/weixin_56622231/article/details/168251657)
+- 2026-10-16 — [MCP 落地一年，我总结了 6 个没人告诉你的工程真相](https://zhuanlan.zhihu.com/p/2094232145015453253)
+
+<sub>CSDN · Juejin · Zhihu — <a href="https://blog.csdn.net/weixin_56622231">blog</a> · <a href="https://juejin.cn/user/2350111542479753">juejin</a> · <a href="https://www.zhihu.com/people/e7c851hd">zhihu</a></sub>
+
+**道具箱** — Python · TypeScript / React · Kotlin · Tauri · FastAPI · Docker · SQLite
+
+---
+
+<details>
+<summary>このページについて</summary>
+
+This page is generated by `build.py` from one data source — `make gen` rebuilds every byte, `make verify` proves it offline.
+
+</details>
+
+All public repositories: [github.com/badhope](https://github.com/badhope)
