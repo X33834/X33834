@@ -11,17 +11,16 @@
 
 ## 01 · Now
 
-- **Current repositories** — world-walker, harbor, CodePocket
-- **Upstream PRs** — 3 selected: 1 merged, 2 closed
+- **Personal repositories** — 28 · personal namespace, forks excluded
+- **Upstream pull requests** — 2 selected: 1 merged, 0 open, 1 closed
 - **Publishing** — CSDN long-form and Juejin notes; two channels only
 
 ## 02 · Upstream pull requests
 
-<sub>3 selected · 1 merged · 0 open · 2 closed · +421/−85 · 18 files · 12 comments</sub>
+<sub>2 selected · 1 merged · 0 open · 1 closed · +407/−84 · 17 files · 11 comments</sub>
 
 - [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **merged** · merged 2026-10-05 · +82/−4 · 3 files · 11 comments
 - [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **closed** · opened 2026-09-13 · +325/−80 · 14 files · 0 comments
-- [chaitin/MonkeyCode#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — fix(frontend): replace field-sizing:content with JS auto-resize to fix CJK cursor offset · **closed** · opened 2026-09-17 · +14/−1 · 1 file · 1 comment
 
 <sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
 

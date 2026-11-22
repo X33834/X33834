@@ -11,19 +11,18 @@
 
 ## 01 · 现在
 
-- **当前仓库** —— world-walker、harbor、CodePocket
-- **外部 PR** —— 3 条：1 已合并，2 已关闭
-- **发布** —— CSDN 长文与掘金沸点，两条通道
+- **个人仓库** — 28 个 · 个人命名空间，不含 fork
+- **外部 PR** — 2 条：已合并 1，开放中 0，已关闭 1
+- **发布** — CSDN 长文与掘金沸点；只保留两条通道
 
 ## 02 · 外部 PR
 
-<sub>3 条 · 已合并 1 · 开放中 0 · 已关闭 2 · +421/−85 · 18 个文件 · 12 条评论</sub>
+<sub>2 条 · 已合并 1 · 开放中 0 · 已关闭 1 · +407/−84 · 17 个文件 · 11 条评论</sub>
 
-- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **已合并** · 合并于 2026-10-05 · +82/−4 · 3 files · 11 comments
-- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **已关闭** · 提交于 2026-09-13 · +325/−80 · 14 files · 0 comments
-- [chaitin/MonkeyCode#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — fix(frontend): replace field-sizing:content with JS auto-resize to fix CJK cursor offset · **已关闭** · 提交于 2026-09-17 · +14/−1 · 1 file · 1 comment
+- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **已合并** · 合并于 2026-10-05 · +82/−4 · 3 个文件 · 11 条评论
+- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **已关闭** · 开启于 2026-09-13 · +325/−80 · 14 个文件 · 0 条评论
 
-<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR 快照 2026-11-22 · GitHub Search / pulls API</sub>
 
 ## 03 · 参与项目
 

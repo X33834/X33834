@@ -11,32 +11,31 @@
 
 ## 01 · いま
 
-- **現在のリポジトリ** —— world-walker、harbor、CodePocket
-- **外部 PR** —— 3 件：マージ 1、クローズ 2
-- **配信** —— CSDN 長文と Juejin 短文。二経路のみ
+- **個人リポジトリ** — 28 件 · 個人名前空間、fork を除く
+- **外部 PR** — 2 件：マージ 1、オープン 0、クローズ 1
+- **配信** — CSDN 長文と Juejin 短文。二経路のみ
 
 ## 02 · 外部 PR
 
-<sub>3 件 · マージ済み 1 · オープン 0 · クローズ 2 · +421/−85 · 18 ファイル · 12 コメント</sub>
+<sub>2 件 · マージ済み 1 · オープン 0 · クローズ 1 · +407/−84 · 17 ファイル · 11 コメント</sub>
 
-- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **マージ済み** · マージ 2026-10-05 · +82/−4 · 3 files · 11 comments
-- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **クローズ** · 提出 2026-09-13 · +325/−80 · 14 files · 0 comments
-- [chaitin/MonkeyCode#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — fix(frontend): replace field-sizing:content with JS auto-resize to fix CJK cursor offset · **クローズ** · 提出 2026-09-17 · +14/−1 · 1 file · 1 comment
+- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **マージ済み** · マージ 2026-10-05 · +82/−4 · 3 ファイル · 11 コメント
+- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **クローズ** · 提出 2026-09-13 · +325/−80 · 14 ファイル · 0 コメント
 
-<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR スナップショット 2026-11-22 · GitHub Search / pulls API</sub>
 
 ## 03 · 参加プロジェクト
 
 | プロジェクト | スタック | 方向 |
 |---|---|---|
-| [world-walker](https://github.com/X33834/world-walker) | Python stdlib · MCP | deterministic rules layer for AI interactive fiction |
-| [harbor](https://github.com/X33834/harbor) | Python | self-hosted publishing hub; one draft, 15 channels |
-| [CodePocket](https://github.com/X33834/CodePocket) | Kotlin · CPython 3.13 | offline-first Android Python IDE; native CPython |
-| [mashang](https://github.com/X33834/mashang) | Kotlin · CPython 3.13 | offline programming terminal; quests, assert grading |
-| [workbench](https://github.com/X33834/workbench) | Tauri 2 · React 19 · TypeScript | desktop workbench; clipboard, snippets, windows, quick launch |
-| [digilegacy](https://github.com/X33834/digilegacy) | Rust | self-hosted digital legacy planning; assets, heirs, release rules |
-| [moneyhelper](https://github.com/X33834/moneyhelper) | FastAPI · LangGraph · React | chat-first finance agent; bookkeeping, portfolio risk, filings |
-| [bigrobot](https://github.com/X33834/bigrobot) | Python | self-hosted AI workspace for owned accounts; groups, files, tools |
+| [world-walker](https://github.com/X33834/world-walker) | Python stdlib · MCP | AI インタラクティブ小説の決定論的ルール層 |
+| [harbor](https://github.com/X33834/harbor) | Python | 自ホスト配信ハブ；1 つの草稿を 15 チャネルへ |
+| [CodePocket](https://github.com/X33834/CodePocket) | Kotlin · CPython 3.13 | オフライン優先の Android Python IDE；ネイティブ CPython |
+| [mashang](https://github.com/X33834/mashang) | Kotlin · CPython 3.13 | オフライン・プログラミング端末；ステージ、assert 採点 |
+| [workbench](https://github.com/X33834/workbench) | Tauri 2 · React 19 · TypeScript | デスクトップ作業台；クリップボード、スニペット、ウィンドウ、クイック起動 |
+| [digilegacy](https://github.com/X33834/digilegacy) | Rust | 自ホスト型デジタル遺産計画；資産、相続人、解放ルール |
+| [moneyhelper](https://github.com/X33834/moneyhelper) | FastAPI · LangGraph · React | 対話型家計エージェント；記帳、ポートフォリオ・リスク、決算 |
+| [bigrobot](https://github.com/X33834/bigrobot) | Python | 自ホスト型 AI ワークスペース；グループ、ファイル、ツール |
 
 ## 04 · 数字
 
