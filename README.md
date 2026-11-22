@@ -4,6 +4,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.svg" /><img src="assets/hero-en-light.svg" alt="X33834 · github.com/X33834" width="100%" /></picture>
 </p>
 
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/starchart-en-dark.svg" /><img src="assets/starchart-en-light.svg" alt="slow celestial chart" width="48%" /></picture>
+</p>
+<p align="center"><sub>A slow sky · one turn every three minutes</sub></p>
+
 ## 01 · Now
 
 - Merged in **apache/airflow**; betterleaks and lefthook fixes under review

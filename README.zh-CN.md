@@ -4,6 +4,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-CN-dark.svg" /><img src="assets/hero-zh-CN-light.svg" alt="X33834 · github.com/X33834" width="100%" /></picture>
 </p>
 
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/starchart-zh-CN-dark.svg" /><img src="assets/starchart-zh-CN-light.svg" alt="slow celestial chart" width="48%" /></picture>
+</p>
+<p align="center"><sub>缓慢旋转的星图 · 一圈三分钟</sub></p>
+
 ## 01 · 现在
 
 - 已合入 **apache/airflow**；betterleaks 与 lefthook 的修复在审
