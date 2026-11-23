@@ -19,23 +19,22 @@
 
 <sub>2 条 · 已合并 1 · 开放中 0 · 已关闭 1 · +407/−84 · 17 个文件 · 11 条评论</sub>
 
+<sub>已合并 1 条 · 平均 11 天 · 最快 11 天</sub>
+
 - [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **已合并** · 合并于 2026-10-05 · +82/−4 · 3 个文件 · 11 条评论
 - [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **已关闭** · 开启于 2026-09-13 · +325/−80 · 14 个文件 · 0 条评论
 
 <sub>PR 快照 2026-11-22 · GitHub Search / pulls API</sub>
 
-## 03 · 参与项目
+## 03 · 精选项目
 
-| 项目 | 技术栈 | 方向 |
-|---|---|---|
-| [world-walker](https://github.com/X33834/world-walker) | Python stdlib · MCP | AI 互动小说的确定性规则层 |
-| [harbor](https://github.com/X33834/harbor) | Python | 自托管发布枢纽；一份草稿分发 15 个渠道 |
-| [CodePocket](https://github.com/X33834/CodePocket) | Kotlin · CPython 3.13 | 离线优先的 Android Python IDE；原生 CPython |
-| [mashang](https://github.com/X33834/mashang) | Kotlin · CPython 3.13 | 离线编程终端；关卡、assert 判题 |
-| [workbench](https://github.com/X33834/workbench) | Tauri 2 · React 19 · TypeScript | 桌面工作台；剪贴板、片段、窗口、快速启动 |
-| [digilegacy](https://github.com/X33834/digilegacy) | Rust | 自托管数字遗产规划；资产、继承人、释放规则 |
-| [moneyhelper](https://github.com/X33834/moneyhelper) | FastAPI · LangGraph · React | 对话式理财 Agent；记账、持仓风控、财报 |
-| [bigrobot](https://github.com/X33834/bigrobot) | Python | 自托管 AI 工作区；分组、文件、工具 |
+<p align="center"><a href="https://github.com/X33834/CodePocket"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-0-zh-CN-dark.svg" /><img src="assets/project-0-zh-CN-light.svg" alt="CodePocket" width="49.2%" /></picture></a> <a href="https://github.com/X33834/harbor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-zh-CN-dark.svg" /><img src="assets/project-1-zh-CN-light.svg" alt="harbor" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/X33834/world-walker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-zh-CN-dark.svg" /><img src="assets/project-2-zh-CN-light.svg" alt="world-walker" width="49.2%" /></picture></a> <a href="https://github.com/X33834/bigrobot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-zh-CN-dark.svg" /><img src="assets/project-3-zh-CN-light.svg" alt="bigrobot" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/X33834/digilegacy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-4-zh-CN-dark.svg" /><img src="assets/project-4-zh-CN-light.svg" alt="digilegacy" width="49.2%" /></picture></a> <a href="https://github.com/X33834/mashang"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-5-zh-CN-dark.svg" /><img src="assets/project-5-zh-CN-light.svg" alt="mashang" width="49.2%" /></picture></a></p>
+
+<sub>更多项目: [workbench](https://github.com/X33834/workbench) · [moneyhelper](https://github.com/X33834/moneyhelper)</sub>
 
 ## 04 · 数据
 
@@ -50,7 +49,13 @@
 </p>
 <sub>逐日贡献来自 GitHub GraphQL 精确快照 · 每周刷新</sub>
 
-## 06 · 发布管线
+## 06 · 语言构成
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-zh-CN-dark.svg" /><img src="assets/langs-zh-CN-light.svg" alt="language mix" width="100%" /></picture>
+</p>
+
+## 07 · 发布管线
 
 <p align="center"><a href="https://blog.csdn.net/weixin_56622231"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-csdn-zh-CN-dark.svg" /><img src="assets/channel-csdn-zh-CN-light.svg" alt="CSDN" width="49.2%" /></picture></a> <a href="https://juejin.cn/user/2350111542479753/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-juejin-zh-CN-dark.svg" /><img src="assets/channel-juejin-zh-CN-light.svg" alt="稀土掘金" width="49.2%" /></picture></a></p>
 

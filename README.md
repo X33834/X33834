@@ -19,23 +19,22 @@
 
 <sub>2 selected · 1 merged · 0 open · 1 closed · +407/−84 · 17 files · 11 comments</sub>
 
+<sub>1 merged in 11d on average · fastest 11d</sub>
+
 - [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **merged** · merged 2026-10-05 · +82/−4 · 3 files · 11 comments
 - [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **closed** · opened 2026-09-13 · +325/−80 · 14 files · 0 comments
 
 <sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
 
-## 03 · Other projects
+## 03 · Featured projects
 
-| Project | Stack | Scope |
-|---|---|---|
-| [world-walker](https://github.com/X33834/world-walker) | Python stdlib · MCP | deterministic rules layer for AI interactive fiction |
-| [harbor](https://github.com/X33834/harbor) | Python | self-hosted publishing hub; one draft, 15 channels |
-| [CodePocket](https://github.com/X33834/CodePocket) | Kotlin · CPython 3.13 | offline-first Android Python IDE; native CPython |
-| [mashang](https://github.com/X33834/mashang) | Kotlin · CPython 3.13 | offline programming terminal; quests, assert grading |
-| [workbench](https://github.com/X33834/workbench) | Tauri 2 · React 19 · TypeScript | desktop workbench; clipboard, snippets, windows, quick launch |
-| [digilegacy](https://github.com/X33834/digilegacy) | Rust | self-hosted digital legacy planning; assets, heirs, release rules |
-| [moneyhelper](https://github.com/X33834/moneyhelper) | FastAPI · LangGraph · React | chat-first finance agent; bookkeeping, portfolio risk, filings |
-| [bigrobot](https://github.com/X33834/bigrobot) | Python | self-hosted AI workspace for owned accounts; groups, files, tools |
+<p align="center"><a href="https://github.com/X33834/CodePocket"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-0-en-dark.svg" /><img src="assets/project-0-en-light.svg" alt="CodePocket" width="49.2%" /></picture></a> <a href="https://github.com/X33834/harbor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-1-en-dark.svg" /><img src="assets/project-1-en-light.svg" alt="harbor" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/X33834/world-walker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-2-en-dark.svg" /><img src="assets/project-2-en-light.svg" alt="world-walker" width="49.2%" /></picture></a> <a href="https://github.com/X33834/bigrobot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-3-en-dark.svg" /><img src="assets/project-3-en-light.svg" alt="bigrobot" width="49.2%" /></picture></a></p>
+
+<p align="center"><a href="https://github.com/X33834/digilegacy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-4-en-dark.svg" /><img src="assets/project-4-en-light.svg" alt="digilegacy" width="49.2%" /></picture></a> <a href="https://github.com/X33834/mashang"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-5-en-dark.svg" /><img src="assets/project-5-en-light.svg" alt="mashang" width="49.2%" /></picture></a></p>
+
+<sub>More projects: [workbench](https://github.com/X33834/workbench) · [moneyhelper](https://github.com/X33834/moneyhelper)</sub>
 
 ## 04 · Numbers
 
@@ -50,7 +49,13 @@
 </p>
 <sub>Exact daily contributions from the GitHub GraphQL snapshot · refreshed weekly</sub>
 
-## 06 · Publishing line
+## 06 · Languages
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/langs-en-dark.svg" /><img src="assets/langs-en-light.svg" alt="language mix" width="100%" /></picture>
+</p>
+
+## 07 · Publishing line
 
 <p align="center"><a href="https://blog.csdn.net/weixin_56622231"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-csdn-en-dark.svg" /><img src="assets/channel-csdn-en-light.svg" alt="CSDN" width="49.2%" /></picture></a> <a href="https://juejin.cn/user/2350111542479753/posts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/channel-juejin-en-dark.svg" /><img src="assets/channel-juejin-en-light.svg" alt="Juejin" width="49.2%" /></picture></a></p>
 
