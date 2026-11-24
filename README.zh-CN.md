@@ -12,19 +12,21 @@
 ## 01 · 现在
 
 - **个人仓库** — 28 个 · 个人命名空间，不含 fork
-- **外部 PR** — 2 条：已合并 1，开放中 0，已关闭 1
+- **外部 PR** — 6 条：已合并 0，开放中 0，已关闭 6
 - **发布** — CSDN 长文归档；掘金、知乎、博客园自动运营
 
 ## 02 · 外部 PR
 
-<sub>2 条 · 已合并 1 · 开放中 0 · 已关闭 1 · +407/−84 · 17 个文件 · 11 条评论</sub>
+<sub>6 条 · 已合并 0 · 开放中 0 · 已关闭 6 · +86050/−21666 · 1945 个文件 · 1 条评论</sub>
 
-<sub>已合并 1 条 · 平均 11 天 · 最快 11 天</sub>
+- [apache/airflow#73672](https://github.com/apache/airflow/pull/73672) — diag · **已关闭** · 开启于 2026-09-24 · +85766/−21595 · 1933 个文件 · 0 条评论
+- [chaitin/MonkeyCode#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — fix(frontend): replace field-sizing:content with JS auto-resize to fix CJK cursor offset · **已关闭** · 开启于 2026-09-17 · +14/−1 · 1 个文件 · 1 条评论
+- [y1s11564/simona-desktop-app#6](https://github.com/y1s11564/simona-desktop-app/pull/6) — security: 生产环境 CSP 白名单 · **已关闭** · 开启于 2026-09-15 · +23/−0 · 1 个文件 · 0 条评论
+- [y1s11564/simona-desktop-app#5](https://github.com/y1s11564/simona-desktop-app/pull/5) — perf: 长会话消息渲染优化 · **已关闭** · 开启于 2026-09-15 · +9/−2 · 1 个文件 · 0 条评论
+- [y1s11564/simona-desktop-app#4](https://github.com/y1s11564/simona-desktop-app/pull/4) — style: design tokens / 焦点可见性 / 移动端 dvh · **已关闭** · 开启于 2026-09-15 · +45/−0 · 2 个文件 · 0 条评论
+- [y1s11564/simona-desktop-app#3](https://github.com/y1s11564/simona-desktop-app/pull/3) — chore: ESLint/Prettier/Vitest 工具链 + Markdown 纯函数单测 · **已关闭** · 开启于 2026-09-15 · +193/−68 · 7 个文件 · 0 条评论
 
-- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **已合并** · 合并于 2026-10-05 · +82/−4 · 3 个文件 · 11 条评论
-- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **已关闭** · 开启于 2026-09-13 · +325/−80 · 14 个文件 · 0 条评论
-
-<sub>PR 快照 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR 快照 2026-11-24 · GitHub Search / pulls API</sub>
 
 ## 03 · 精选项目
 

@@ -12,19 +12,21 @@
 ## 01 · Now
 
 - **Personal repositories** — 28 · personal namespace, forks excluded
-- **Upstream pull requests** — 2 selected: 1 merged, 0 open, 1 closed
+- **Upstream pull requests** — 6 selected: 0 merged, 0 open, 6 closed
 - **Publishing** — CSDN archive; Juejin, Zhihu and Cnblogs automation
 
 ## 02 · Upstream pull requests
 
-<sub>2 selected · 1 merged · 0 open · 1 closed · +407/−84 · 17 files · 11 comments</sub>
+<sub>6 selected · 0 merged · 0 open · 6 closed · +86050/−21666 · 1945 files · 1 comments</sub>
 
-<sub>1 merged in 11d on average · fastest 11d</sub>
+- [apache/airflow#73672](https://github.com/apache/airflow/pull/73672) — diag · **closed** · opened 2026-09-24 · +85766/−21595 · 1933 files · 0 comments
+- [chaitin/MonkeyCode#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — fix(frontend): replace field-sizing:content with JS auto-resize to fix CJK cursor offset · **closed** · opened 2026-09-17 · +14/−1 · 1 file · 1 comment
+- [y1s11564/simona-desktop-app#6](https://github.com/y1s11564/simona-desktop-app/pull/6) — security: 生产环境 CSP 白名单 · **closed** · opened 2026-09-15 · +23/−0 · 1 file · 0 comments
+- [y1s11564/simona-desktop-app#5](https://github.com/y1s11564/simona-desktop-app/pull/5) — perf: 长会话消息渲染优化 · **closed** · opened 2026-09-15 · +9/−2 · 1 file · 0 comments
+- [y1s11564/simona-desktop-app#4](https://github.com/y1s11564/simona-desktop-app/pull/4) — style: design tokens / 焦点可见性 / 移动端 dvh · **closed** · opened 2026-09-15 · +45/−0 · 2 files · 0 comments
+- [y1s11564/simona-desktop-app#3](https://github.com/y1s11564/simona-desktop-app/pull/3) — chore: ESLint/Prettier/Vitest 工具链 + Markdown 纯函数单测 · **closed** · opened 2026-09-15 · +193/−68 · 7 files · 0 comments
 
-- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **merged** · merged 2026-10-05 · +82/−4 · 3 files · 11 comments
-- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **closed** · opened 2026-09-13 · +325/−80 · 14 files · 0 comments
-
-<sub>PR snapshot 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR snapshot 2026-11-24 · GitHub Search / pulls API</sub>
 
 ## 03 · Featured projects
 

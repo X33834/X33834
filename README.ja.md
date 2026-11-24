@@ -12,19 +12,21 @@
 ## 01 · いま
 
 - **個人リポジトリ** — 28 件 · 個人名前空間、fork を除く
-- **外部 PR** — 2 件：マージ 1、オープン 0、クローズ 1
+- **外部 PR** — 6 件：マージ 0、オープン 0、クローズ 6
 - **配信** — CSDN 長文アーカイブ、Juejin・知乎・博客园 は自動運用
 
 ## 02 · 外部 PR
 
-<sub>2 件 · マージ済み 1 · オープン 0 · クローズ 1 · +407/−84 · 17 ファイル · 11 コメント</sub>
+<sub>6 件 · マージ済み 0 · オープン 0 · クローズ 6 · +86050/−21666 · 1945 ファイル · 1 コメント</sub>
 
-<sub>マージ済み 1 件 · 平均 11 日 · 最速 11 日</sub>
+- [apache/airflow#73672](https://github.com/apache/airflow/pull/73672) — diag · **クローズ** · 提出 2026-09-24 · +85766/−21595 · 1933 ファイル · 0 コメント
+- [chaitin/MonkeyCode#1298](https://github.com/chaitin/MonkeyCode/pull/1298) — fix(frontend): replace field-sizing:content with JS auto-resize to fix CJK cursor offset · **クローズ** · 提出 2026-09-17 · +14/−1 · 1 ファイル · 1 コメント
+- [y1s11564/simona-desktop-app#6](https://github.com/y1s11564/simona-desktop-app/pull/6) — security: 生产环境 CSP 白名单 · **クローズ** · 提出 2026-09-15 · +23/−0 · 1 ファイル · 0 コメント
+- [y1s11564/simona-desktop-app#5](https://github.com/y1s11564/simona-desktop-app/pull/5) — perf: 长会话消息渲染优化 · **クローズ** · 提出 2026-09-15 · +9/−2 · 1 ファイル · 0 コメント
+- [y1s11564/simona-desktop-app#4](https://github.com/y1s11564/simona-desktop-app/pull/4) — style: design tokens / 焦点可见性 / 移动端 dvh · **クローズ** · 提出 2026-09-15 · +45/−0 · 2 ファイル · 0 コメント
+- [y1s11564/simona-desktop-app#3](https://github.com/y1s11564/simona-desktop-app/pull/3) — chore: ESLint/Prettier/Vitest 工具链 + Markdown 纯函数单测 · **クローズ** · 提出 2026-09-15 · +193/−68 · 7 ファイル · 0 コメント
 
-- [apache/airflow#73099](https://github.com/apache/airflow/pull/73099) — Support Table objects in BigQueryHook.create_table table_resource · **マージ済み** · マージ 2026-10-05 · +82/−4 · 3 ファイル · 11 コメント
-- [y1s11564/simona-desktop-app#1](https://github.com/y1s11564/simona-desktop-app/pull/1) — 移动端适配：安卓原生壳 UI 美化 + Web UI 布局修复 · **クローズ** · 提出 2026-09-13 · +325/−80 · 14 ファイル · 0 コメント
-
-<sub>PR スナップショット 2026-11-22 · GitHub Search / pulls API</sub>
+<sub>PR スナップショット 2026-11-24 · GitHub Search / pulls API</sub>
 
 ## 03 · 代表プロジェクト
 
